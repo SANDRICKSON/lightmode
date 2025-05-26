@@ -819,6 +819,12 @@ input[type="submit"] {
     box-shadow: 0 0 20px var(--main-color);
 }
 
+/* აიქონისთვის შავი ფერი hover-ზე */
+.skills ul li:hover i {
+    color: black;
+}
+
+
 
 .certifications {
     background: var(--second-bg-color);
